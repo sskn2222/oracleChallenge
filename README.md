@@ -1,7 +1,7 @@
-# oracleChallenge - Simple Java class with a main method. We can directly compile and run the same.
+# oracleChallenge 
 
-Compile
-javac OracleChallenge.java
+- Simple Java class with a main method. We can directly compile and run the same.
 
-Run
-java OracleChallenge
+Compile command : javac OracleChallenge.java
+
+Run command : java OracleChallenge
